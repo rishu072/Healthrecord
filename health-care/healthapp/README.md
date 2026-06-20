@@ -1,4 +1,14 @@
-# 🏥 MyHealthRecord — Secure E-Health Records & Emergency Bypass Share Platform
+<h1 align="center">
+  🏥 MyHealthRecord
+</h1>
+
+<p align="center">
+  <strong>Secure E-Health Records & Emergency Bypass Share Platform</strong>
+</p>
+
+<p align="center">
+  A modern healthcare platform for securely storing, managing, and sharing electronic health records with emergency access support.
+</p>
 
 ## 🛠 Tech Stack
 
